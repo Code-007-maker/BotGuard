@@ -230,7 +230,7 @@ git init
 git add .
 git commit -m "Initial commit: Completed BotGuard backend assignment"
 git branch -M main
-git remote add originhttps://github.com/Code-007-maker/BotGuard
+git remote add origin https://github.com/Code-007-maker/BotGuard.git
 git push -u origin main
 ```
 
