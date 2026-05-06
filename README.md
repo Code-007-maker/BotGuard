@@ -53,7 +53,7 @@ Import the included `Postman_Collection.json` file into Postman to test all REST
 
 ---
 
-# 🔒 Architecture & Concurrency Strategy
+#  Architecture & Concurrency Strategy
 
 The biggest challenge in this assignment is preventing race conditions under heavy concurrency.
 
@@ -76,7 +76,7 @@ This approach fails under concurrency because multiple threads can read the same
 
 ---
 
-## ✅ Solution: Redis Lua Scripts
+##  Solution: Redis Lua Scripts
 
 Redis Lua Scripts provide atomic execution.
 
@@ -181,7 +181,7 @@ If Redis rejects the request:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 botguard/
@@ -195,7 +195,7 @@ botguard/
 
 ---
 
-# ▶️ Steps To Run
+#  Steps To Run
 
 ## Create README
 
